@@ -129,3 +129,5 @@ submodules:
     vim-nodejs-complete:
     python-mode:
     cscope:
+    vim-misc:
+    vim-session:
