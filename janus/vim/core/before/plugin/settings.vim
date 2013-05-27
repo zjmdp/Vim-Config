@@ -13,8 +13,8 @@ set encoding=utf-8    " Set default encoding to UTF-8
 ""
 
 set nowrap                        " don't wrap lines
-set tabstop=2                     " a tab is two spaces
-set shiftwidth=2                  " an autoindent (with <<) is two spaces
+set tabstop=4                     " a tab is four spaces
+set shiftwidth=4                  " an autoindent (with <<) is four spaces
 set expandtab                     " use spaces, not tabs
 set list                          " Show invisible characters
 set backspace=indent,eol,start    " backspace through everything in insert mode
@@ -66,3 +66,18 @@ set wildignore+=*.swp,*~,._*
 
 set backupdir^=~/.vim/_backup//    " where to put backup files.
 set directory^=~/.vim/_temp//      " where to put swap files.
+
+
+
+
+"" Add by zjmdp below
+"" undo persistence
+set undofile
+set undodir^=~/.vim/_undodir//
+set undolevels=10000 "maximum number of changes that can be undones
+
+" python code
+let g:pymode_run_key = '<leader>e'
+
+" set defautl color theme
+color molokai
