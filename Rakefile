@@ -41,6 +41,7 @@ task :folders do
   Janus::VIM.folders.each do |folder|
     mkdir_p folder
   end
+  mkdir_p '_undodir'
 end
 
 task :update do
