@@ -1,11 +1,20 @@
-# Extend by zjmdp for moduls below:
+# Janus: Vim Distribution
+
+## Extended by zjmdp for moduls below:
 - [cscope](http://cscope.sourceforge.net)
 - [python-mode](https://github.com/klen/python-mode)
 - Persist undo history
 - Automatically pair brackets 
 - set tabstop and shiftwidth to 4-spaces
 - [vim-nodejs-complete](https://github.com/myhere/vim-nodejs-complete)
-# Janus: Vim Distribution
+
+###How to install extended janus
+
+```bash
+$ git clone https://github.com/zjmdp/janus.git
+$ cd ~/.janus
+$ ./bootstrap.sh
+```
 
 This is a distribution of plug-ins and mappings for Vim, Gvim and
 MacVim.
@@ -66,7 +75,7 @@ installer](https://github.com/zjmdp/janus/blob/master/bootstrap.sh)
 Janus.
 
 ```bash
-$ curl -Lo- https://github.com/zjmdp/janus/blob/master/bootstrap.sh | bash
+$ curl -Lo- https://bit.ly/janus-bootstrap | bash
 ```
 
 ## Customization
