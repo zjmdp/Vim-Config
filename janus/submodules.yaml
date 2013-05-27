@@ -126,3 +126,6 @@ submodules:
     zoomwin:
     vroom:
     multiple-cursors:
+    python-mode:
+    vim-nodejs-complete:
+    cscope:

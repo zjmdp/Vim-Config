@@ -1,10 +1,10 @@
 # Extend by zjmdp for moduls below:
-- cscope(http://cscope.sourceforge.net)
-- python-mode(https://github.com/klen/python-mode)
+- [cscope](http://cscope.sourceforge.net)
+- [python-mode](https://github.com/klen/python-mode)
 - Persist undo history
 - Automatically pair brackets 
 - set tabstop and shiftwidth to 4-spaces
-- node.js complete(https://github.com/myhere/vim-nodejs-complete)
+- [vim-nodejs-complete](https://github.com/myhere/vim-nodejs-complete)
 # Janus: Vim Distribution
 
 This is a distribution of plug-ins and mappings for Vim, Gvim and
