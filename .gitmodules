@@ -209,9 +209,9 @@
 [submodule "janus/vim/tools/vim-misc"]
 	path = janus/vim/tools/vim-misc
 	url = https://github.com/xolox/vim-misc
-[submodule "janus/vim/tools/AutoComplPop"]
-	path = janus/vim/tools/AutoComplPop
-	url = git@github.com:vim-scripts/AutoComplPop.git
 [submodule "janus/vim/tools/ultisnips"]
 	path = janus/vim/tools/ultisnips
 	url = git@github.com:SirVer/ultisnips.git
+[submodule "janus/vim/tools/autocomplpop"]
+	path = janus/vim/tools/autocomplpop
+	url = git@github.com:vim-scripts/AutoComplPop.git
