@@ -215,3 +215,6 @@
 [submodule "janus/vim/tools/autocomplpop"]
 	path = janus/vim/tools/autocomplpop
 	url = git@github.com:vim-scripts/AutoComplPop.git
+[submodule "janus/vim/tools/auto-pairs"]
+	path = janus/vim/tools/auto-pairs
+	url = git@github.com:jiangmiao/auto-pairs.git

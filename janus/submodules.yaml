@@ -123,3 +123,5 @@ submodules:
     cscope:
     vim-misc:
     vim-session:
+    autocomplpop:
+    auto-pairs:
