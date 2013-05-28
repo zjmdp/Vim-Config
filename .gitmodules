@@ -137,12 +137,6 @@
 [submodule "janus/vim/tools/surround"]
 	path = janus/vim/tools/surround
 	url = https://github.com/tpope/vim-surround.git
-[submodule "janus/vim/tools/tlib"]
-	path = janus/vim/tools/tlib
-	url = https://github.com/tomtom/tlib_vim.git
-[submodule "janus/vim/tools/vim-addon-mw-utils"]
-	path = janus/vim/tools/vim-addon-mw-utils
-	url = https://github.com/MarcWeber/vim-addon-mw-utils.git
 [submodule "janus/vim/tools/syntastic"]
 	path = janus/vim/tools/syntastic
 	url = https://github.com/scrooloose/syntastic.git
@@ -194,9 +188,6 @@
 [submodule "janus/vim/tools/repeat"]
 	path = janus/vim/tools/repeat
 	url = https://github.com/tpope/vim-repeat.git
-[submodule "janus/vim/tools/vim-snippets"]
-	path = janus/vim/tools/vim-snippets
-	url = https://github.com/honza/vim-snippets.git
 [submodule "janus/vim/tools/dispatch"]
 	path = janus/vim/tools/dispatch
 	url = https://github.com/tpope/vim-dispatch.git
