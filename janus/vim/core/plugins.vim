@@ -40,3 +40,4 @@ if exists("*DetectNode")
 endif
 
 call janus#disable_plugin("supertab")
+call janus#disable_plugin("vroom")

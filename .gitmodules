@@ -218,3 +218,6 @@
 [submodule "janus/vim/tools/auto-pairs"]
 	path = janus/vim/tools/auto-pairs
 	url = git@github.com:jiangmiao/auto-pairs.git
+[submodule "janus/vim/tools/mark"]
+	path = janus/vim/tools/mark
+	url = git@github.com:vim-scripts/Mark.git
