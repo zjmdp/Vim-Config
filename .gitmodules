@@ -137,9 +137,6 @@
 [submodule "janus/vim/tools/surround"]
 	path = janus/vim/tools/surround
 	url = https://github.com/tpope/vim-surround.git
-[submodule "janus/vim/tools/snipmate"]
-	path = janus/vim/tools/snipmate
-	url = https://github.com/garbas/vim-snipmate.git
 [submodule "janus/vim/tools/tlib"]
 	path = janus/vim/tools/tlib
 	url = https://github.com/tomtom/tlib_vim.git
@@ -224,3 +221,6 @@
 [submodule "janus/vim/tools/AutoComplPop"]
 	path = janus/vim/tools/AutoComplPop
 	url = git@github.com:vim-scripts/AutoComplPop.git
+[submodule "janus/vim/tools/ultisnips"]
+	path = janus/vim/tools/ultisnips
+	url = git@github.com:SirVer/ultisnips.git
