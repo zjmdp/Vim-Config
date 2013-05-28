@@ -38,3 +38,5 @@ endif
 if exists("*DetectNode")
   call janus#disable_plugin("nodejs", "Nodejs already exists on your system.")
 endif
+
+call janus#disable_plugin("supertab")
