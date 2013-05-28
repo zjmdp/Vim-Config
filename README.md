@@ -11,13 +11,13 @@ and `~/.vimrc.after` Vim RC files.
 
 ## Extended by zjmdp for moduls below:
 - [cscope](http://cscope.sourceforge.net)
-- [python-mode](https://github.com/klen/python-mode)
+- [python-mode](https://github.com/klen/python-mode)(Vim python-mode. PyLint, Rope, Pydoc, breakpoints from box)
 - Persist undo history
 - Automatically pair brackets 
-- set tabstop and shiftwidth to 4-spaces
-- [vim-nodejs-complete](https://github.com/myhere/vim-nodejs-complete)
-- [vim-session](https://github.com/xolox/vim-session.git)(save and
-  reload session of you work)
+- Set tabstop and shiftwidth to 4-spaces
+- [vim-nodejs-complete](https://github.com/myhere/vim-nodejs-complete)(nodejs 'omnifunc' function of vim)
+- [vim-session](https://github.com/xolox/vim-session.git)(Extended session management for Vim)
+- [AutoComplPop](https://github.com/vim-scripts/AutoComplPop)(Automatically opens popup menu for completions)
 
 ###How to install extended janus
 

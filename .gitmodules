@@ -221,3 +221,6 @@
 [submodule "janus/vim/tools/vim-misc"]
 	path = janus/vim/tools/vim-misc
 	url = https://github.com/xolox/vim-misc
+[submodule "janus/vim/tools/AutoComplPop"]
+	path = janus/vim/tools/AutoComplPop
+	url = git@github.com:vim-scripts/AutoComplPop.git
