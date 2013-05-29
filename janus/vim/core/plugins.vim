@@ -33,6 +33,10 @@ if !executable("ctags")
   call janus#disable_plugin("tagbar", "The ctags program is not installed")
 endif
 
+if !exists("cscope")
+    call janus#disable_plugin("cscope", "The cscope program is not installed")
+endif
+
 " nodejs does not protect itself
 " See #336
 if exists("*DetectNode")

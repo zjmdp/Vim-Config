@@ -165,10 +165,10 @@ cnoremap <expr> <C-P> getcmdline()[getcmdpos()-2] ==# ' ' ? expand('%:p:h') : "\
 command! KillWhitespace :normal :%s/ *$//g<cr><c-o><cr>
 
 "" Add by zjmdp below
-"" Automatically pair brackets in insert mode
-inoremap ( ()<ESC>i
-inoremap [ []<ESC>i
-inoremap { {}<ESC>i
-inoremap < <><ESC>i
-inoremap " ""<ESC>i
-inoremap ' ''<ESC>i
+inoremap jj <ESC>
+nnoremap <C-h> <C-w>h
+nnoremap <C-j> <C-w>j
+nnoremap <C-k> <C-w>k
+nnoremap <C-l> <C-w>l
+cmap !!w w !sudo tee % >/dev/null
+nmap <silent> ;c :nohlsearch<CR>

@@ -13,15 +13,18 @@ and `~/.vimrc.after` Vim RC files.
 - [cscope](http://cscope.sourceforge.net)
 - [python-mode](https://github.com/klen/python-mode)(Vim python-mode. PyLint, Rope, Pydoc, breakpoints from box)
 - [auto-pairs](https://github.com/jiangmiao/auto-pairs)(Insert or delete brackets, parens, quotes in pair)
-- [vim-nodejs-complete](https://github.com/myhere/vim-nodejs-complete)(nodejs 'omnifunc' function of vim)
-- [vim-session](https://github.com/xolox/vim-session.git)[Extended session management for vim]
+- [nodejs-complete](https://github.com/myhere/vim-nodejs-complete)(nodejs 'omnifunc' function of vim)
+- [session](https://github.com/xolox/vim-session.git)[Extended session management for vim]
 - [autocomplpop](https://github.com/vim-scripts/AutoComplPop)(Automatically opens popup menu for completions)
 - [ultisnips](git@github.com:SirVer/ultisnips.git)[A powerfull replacement of snipmate]
 - [mark](https://github.com/vim-scripts/Mark)(A little script to highlight several words in different colors simultaneously)
-- [vim-surround](https://github.com/tpope/vim-surround)(quoting/parenthesizing made simple)
+- [surround](https://github.com/tpope/vim-surround)(quoting/parenthesizing made simple)
 - Persist undo history
 - Set tabstop and shiftwidth to 4-spaces
 - Disable vroom modules
+- map `jj` to exiting back to normal mode
+- map `;c` to `:nohlsearch<CR>` for cleaning highlighted searches 
+- map `!!w` to `w !sudo tee % >/dev/null`(Write files with root privileges)
 
 ###How to install extended janus
 
