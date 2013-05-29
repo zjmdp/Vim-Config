@@ -172,3 +172,8 @@ nnoremap <C-k> <C-w>k
 nnoremap <C-l> <C-w>l
 cmap !!w w !sudo tee % >/dev/null
 nmap <silent> ;c :nohlsearch<CR>
+
+nmap <Leader>a= :Tabularize /=<CR>
+vmap <Leader>a= :Tabularize /=<CR>
+nmap <Leader>a: :Tabularize /:\zs<CR>
+vmap <Leader>a: :Tabularize /:\zs<CR>
