@@ -224,3 +224,6 @@
 [submodule "janus/vim/tools/tabular"]
 	path = janus/vim/tools/tabular
 	url = git@github.com:godlygeek/tabular.git
+[submodule "janus/vim/tools/gitgutter"]
+	path = janus/vim/tools/gitgutter
+	url = https://github.com/airblade/vim-gitgutter
