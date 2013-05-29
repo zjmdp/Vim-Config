@@ -26,6 +26,7 @@ and `~/.vimrc.after` Vim RC files.
 - map `jj` to exiting back to normal mode
 - map `;c` to `:nohlsearch<CR>` for cleaning highlighted searches 
 - map `!!w` to `w !sudo tee % >/dev/null`(Write files with root privileges)
+- map `<C-h>, <C-j>, <C-k>, <C-l>` to switch NERDTree windows.
 
 ###How to install extended janus
 
