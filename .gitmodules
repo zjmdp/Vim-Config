@@ -227,3 +227,6 @@
 [submodule "janus/vim/tools/gitgutter"]
 	path = janus/vim/tools/gitgutter
 	url = https://github.com/airblade/vim-gitgutter
+[submodule "janus/vim/tools/zencoding"]
+	path = janus/vim/tools/zencoding
+	url = git@github.com:mattn/zencoding-vim.git

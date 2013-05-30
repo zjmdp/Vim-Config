@@ -21,6 +21,7 @@ and `~/.vimrc.after` Vim RC files.
 - [surround](https://github.com/tpope/vim-surround)(Quoting/Parenthesizing made simple)
 - [tabular](git@github.com:godlygeek/tabular.git)(Vim script for text filtering and alignment, `<Leader>a=`: align with `=`, `<Leader>a:`: align with `:`)
 - [gitgutter](https://github.com/airblade/vim-gitgutter)(A Vim plugin which shows a git diff in the gutter)
+- [zencoding](https://github.com/mattn/zencoding-vim)(Provides support for expanding abbreviations similar to [zen-coding](https://code.google.com/p/zen-coding/))
 - Persist undo history
 - Set tabstop and shiftwidth to 4-spaces
 - Disable vroom plugin
