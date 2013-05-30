@@ -211,22 +211,22 @@
 	url = https://github.com/xolox/vim-misc
 [submodule "janus/vim/tools/ultisnips"]
 	path = janus/vim/tools/ultisnips
-	url = git@github.com:SirVer/ultisnips.git
+	url = https://github.com/SirVer/ultisnips.git
 [submodule "janus/vim/tools/autocomplpop"]
 	path = janus/vim/tools/autocomplpop
-	url = git@github.com:vim-scripts/AutoComplPop.git
+	url = https://github.com/vim-scripts/AutoComplPop.git
 [submodule "janus/vim/tools/auto-pairs"]
 	path = janus/vim/tools/auto-pairs
-	url = git@github.com:jiangmiao/auto-pairs.git
+	url = https://github.com/jiangmiao/auto-pairs.git
 [submodule "janus/vim/tools/mark"]
 	path = janus/vim/tools/mark
-	url = git@github.com:vim-scripts/Mark.git
+	url = https://github.com/vim-scripts/Mark.git
 [submodule "janus/vim/tools/tabular"]
 	path = janus/vim/tools/tabular
-	url = git@github.com:godlygeek/tabular.git
+	url = https://github.com/godlygeek/tabular.git
 [submodule "janus/vim/tools/gitgutter"]
 	path = janus/vim/tools/gitgutter
 	url = https://github.com/airblade/vim-gitgutter
 [submodule "janus/vim/tools/zencoding"]
 	path = janus/vim/tools/zencoding
-	url = git@github.com:mattn/zencoding-vim.git
+	url = https://github.com/mattn/zencoding-vim.git

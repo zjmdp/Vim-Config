@@ -85,3 +85,4 @@ color molokai
 " auto save and load sesson
 let g:session_autosave = "yes"
 let g:session_autoload = "yes"
+let g:AutoPairs = {'(':')', '[':']', '{':'}',"'":"'",'"':'"', '`':'`', '<':'>'}

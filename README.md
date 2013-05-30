@@ -17,7 +17,7 @@ and `~/.vimrc.after` Vim RC files.
 - [session](https://github.com/xolox/vim-session.git)(Extended session management for vim)
 - [autocomplpop](https://github.com/vim-scripts/AutoComplPop)(Automatically opens popup menu for completions)
 - [ultisnips](git@github.com:SirVer/ultisnips.git)(A powerfull replacement of snipmate)
-- [mark](https://github.com/vim-scripts/Mark)(A little script to highlight several words in different colors simultaneously)
+- [mark](https://github.com/vim-scripts/Mark)(A little script to highlight several words in different colors simultaneousl, `<leader>m`: mark words, `<leader>c`: clear marks)
 - [surround](https://github.com/tpope/vim-surround)(Quoting/Parenthesizing made simple)
 - [tabular](git@github.com:godlygeek/tabular.git)(Vim script for text filtering and alignment, `<Leader>a=`: align with `=`, `<Leader>a:`: align with `:`)
 - [gitgutter](https://github.com/airblade/vim-gitgutter)(A Vim plugin which shows a git diff in the gutter)
