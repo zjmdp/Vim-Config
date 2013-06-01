@@ -86,3 +86,9 @@ color molokai
 let g:session_autosave = "yes"
 let g:session_autoload = "yes"
 let g:AutoPairs = {'(':')', '[':']', '{':'}',"'":"'",'"':'"', '`':'`', '<':'>'}
+
+let g:neocomplcache_enable_at_startup = 1
+
+"navigate the completion menu from bottom to top
+let g:SuperTabDefaultCompletionType = "<c-n>"
+let g:SuperTabContextDefaultCompletionType = "<c-n>"

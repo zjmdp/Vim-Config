@@ -212,9 +212,6 @@
 [submodule "janus/vim/tools/ultisnips"]
 	path = janus/vim/tools/ultisnips
 	url = https://github.com/SirVer/ultisnips.git
-[submodule "janus/vim/tools/autocomplpop"]
-	path = janus/vim/tools/autocomplpop
-	url = https://github.com/vim-scripts/AutoComplPop.git
 [submodule "janus/vim/tools/auto-pairs"]
 	path = janus/vim/tools/auto-pairs
 	url = https://github.com/jiangmiao/auto-pairs.git
@@ -230,3 +227,6 @@
 [submodule "janus/vim/tools/zencoding"]
 	path = janus/vim/tools/zencoding
 	url = https://github.com/mattn/zencoding-vim.git
+[submodule "janus/vim/tools/neocomplcache"]
+	path = janus/vim/tools/neocomplcache
+	url = https://github.com/Shougo/neocomplcache.vim.git
