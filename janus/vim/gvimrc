@@ -10,3 +10,5 @@ endif
 if filereadable(expand("~/.gvimrc.after"))
   source ~/.gvimrc.after
 endif
+
+colorscheme desertEx

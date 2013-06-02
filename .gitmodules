@@ -230,3 +230,6 @@
 [submodule "janus/vim/tools/neocomplcache"]
 	path = janus/vim/tools/neocomplcache
 	url = https://github.com/Shougo/neocomplcache.vim.git
+[submodule "janus/vim/colors/desertEx"]
+	path = janus/vim/colors/desertEx
+	url = https://github.com/vim-scripts/desertEx.git
