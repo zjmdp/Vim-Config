@@ -17,7 +17,7 @@ and `~/.vimrc.after` Vim RC files.
 - [session](https://github.com/xolox/vim-session.git)(Extended session management for vim)
 - [neocomplcache](https://github.com/Shougo/neocomplcache.vim)(It provides keyword completion system by maintaining a cache of keywords in the current buffer.)
 - [ultisnips](https://github.com/SirVer/ultisnips)(A powerfull replacement of snipmate)
-- [mark](https://github.com/vim-scripts/Mark)(A little script to highlight several words in different colors simultaneousl, `<leader>m`: mark words, `<leader>c`: clear marks)
+- [mark](https://github.com/vim-scripts/Mark--Karkat.git)(Highlight several words in different colors simultaneously.)
 - [surround](https://github.com/tpope/vim-surround)(Quoting/Parenthesizing made simple)
 - [tabular](https://github.com/godlygeek/tabular)(Vim script for text filtering and alignment, `<Leader>a=`: align with `=`, `<Leader>a:`: align with `:`)
 - [gitgutter](https://github.com/airblade/vim-gitgutter)(A Vim plugin which shows a git diff in the gutter)
@@ -25,10 +25,9 @@ and `~/.vimrc.after` Vim RC files.
 - Persist undo history
 - Set tabstop and shiftwidth to 4-spaces
 - Disable vroom plugin
-- map `jj` to exiting back to normal mode
+- map `jj` for exiting back to normal mode
 - map `;c` to `:nohlsearch<CR>` for cleaning highlighted searches 
-- map `!!w` to `w !sudo tee % >/dev/null`(Write files with root privileges)
-- map `<C-h>, <C-j>, <C-k>, <C-l>` to switch NERDTree windows.
+- map `<C-h>, <C-j>, <C-k>, <C-l>` for switch NERDTree windows.
 
 ###How to install extended janus
 

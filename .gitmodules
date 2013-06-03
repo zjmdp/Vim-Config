@@ -215,9 +215,6 @@
 [submodule "janus/vim/tools/auto-pairs"]
 	path = janus/vim/tools/auto-pairs
 	url = https://github.com/jiangmiao/auto-pairs.git
-[submodule "janus/vim/tools/mark"]
-	path = janus/vim/tools/mark
-	url = https://github.com/vim-scripts/Mark.git
 [submodule "janus/vim/tools/tabular"]
 	path = janus/vim/tools/tabular
 	url = https://github.com/godlygeek/tabular.git
@@ -233,3 +230,6 @@
 [submodule "janus/vim/colors/desertEx"]
 	path = janus/vim/colors/desertEx
 	url = https://github.com/vim-scripts/desertEx.git
+[submodule "janus/vim/tools/mark"]
+	path = janus/vim/tools/mark
+	url = https://github.com/vim-scripts/Mark--Karkat.git
