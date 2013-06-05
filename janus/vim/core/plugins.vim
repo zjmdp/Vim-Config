@@ -33,7 +33,7 @@ if !executable("ctags")
   call janus#disable_plugin("tagbar", "The ctags program is not installed")
 endif
 
-if !exists("cscope")
+if !executable("cscope")
     call janus#disable_plugin("cscope", "The cscope program is not installed")
 endif
 
