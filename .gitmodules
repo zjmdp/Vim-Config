@@ -194,15 +194,9 @@
 [submodule "janus/vim/tools/multiple-cursors"]
 	path = janus/vim/tools/multiple-cursors
 	url = https://github.com/terryma/vim-multiple-cursors.git
-[submodule "janus/vim/tools/python-mode"]
-	path = janus/vim/tools/python-mode
-	url = https://github.com/klen/python-mode.git
 [submodule "janus/vim/tools/cscope"]
 	path = janus/vim/tools/cscope
 	url = https://github.com/zjmdp/cscope.git
-[submodule "janus/vim/tools/vim-nodejs-complete"]
-	path = janus/vim/tools/vim-nodejs-complete
-	url = https://github.com/myhere/vim-nodejs-complete.git
 [submodule "janus/vim/tools/vim-misc"]
 	path = janus/vim/tools/vim-misc
 	url = https://github.com/xolox/vim-misc
@@ -218,9 +212,6 @@
 [submodule "janus/vim/tools/gitgutter"]
 	path = janus/vim/tools/gitgutter
 	url = https://github.com/airblade/vim-gitgutter
-[submodule "janus/vim/tools/zencoding"]
-	path = janus/vim/tools/zencoding
-	url = https://github.com/mattn/zencoding-vim.git
 [submodule "janus/vim/tools/neocomplcache"]
 	path = janus/vim/tools/neocomplcache
 	url = https://github.com/Shougo/neocomplcache.vim.git
