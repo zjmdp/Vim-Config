@@ -203,9 +203,6 @@
 [submodule "janus/vim/tools/vim-nodejs-complete"]
 	path = janus/vim/tools/vim-nodejs-complete
 	url = https://github.com/myhere/vim-nodejs-complete.git
-[submodule "janus/vim/tools/vim-session"]
-	path = janus/vim/tools/vim-session
-	url = https://github.com/xolox/vim-session.git
 [submodule "janus/vim/tools/vim-misc"]
 	path = janus/vim/tools/vim-misc
 	url = https://github.com/xolox/vim-misc
