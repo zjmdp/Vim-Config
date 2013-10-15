@@ -122,9 +122,6 @@
 [submodule "janus/vim/tools/supertab"]
 	path = janus/vim/tools/supertab
 	url = https://github.com/ervandew/supertab.git
-[submodule "janus/vim/tools/zoomwin"]
-	path = janus/vim/tools/zoomwin
-	url = https://github.com/itspriddle/ZoomWin.git
 [submodule "janus/vim/tools/ack"]
 	path = janus/vim/tools/ack
 	url = https://github.com/mileszs/ack.vim.git
@@ -149,9 +146,6 @@
 [submodule "janus/vim/tools/endwise"]
 	path = janus/vim/tools/endwise
 	url = https://github.com/tpope/vim-endwise.git
-[submodule "janus/vim/tools/css-color"]
-	path = janus/vim/tools/css-color
-	url = https://github.com/ap/vim-css-color.git
 [submodule "janus/vim/tools/easymotion"]
 	path = janus/vim/tools/easymotion
 	url = https://github.com/Lokaltog/vim-easymotion.git
@@ -173,9 +167,6 @@
 [submodule "janus/vim/tools/repeat"]
 	path = janus/vim/tools/repeat
 	url = https://github.com/tpope/vim-repeat.git
-[submodule "janus/vim/tools/dispatch"]
-	path = janus/vim/tools/dispatch
-	url = https://github.com/tpope/vim-dispatch.git
 [submodule "janus/vim/tools/multiple-cursors"]
 	path = janus/vim/tools/multiple-cursors
 	url = https://github.com/terryma/vim-multiple-cursors.git
