@@ -128,9 +128,6 @@
 [submodule "janus/vim/tools/ack"]
 	path = janus/vim/tools/ack
 	url = https://github.com/mileszs/ack.vim.git
-[submodule "janus/vim/tools/fugitive"]
-	path = janus/vim/tools/fugitive
-	url = https://github.com/tpope/vim-fugitive.git
 [submodule "janus/vim/tools/gundo"]
 	path = janus/vim/tools/gundo
 	url = https://github.com/sjl/gundo.vim.git
@@ -152,15 +149,6 @@
 [submodule "janus/vim/tools/endwise"]
 	path = janus/vim/tools/endwise
 	url = https://github.com/tpope/vim-endwise.git
-[submodule "janus/vim/tools/webapi"]
-	path = janus/vim/tools/webapi
-	url = https://github.com/mattn/webapi-vim.git
-[submodule "janus/vim/tools/gist"]
-	path = janus/vim/tools/gist
-	url = https://github.com/mattn/gist-vim.git
-[submodule "janus/vim/tools/vimwiki"]
-	path = janus/vim/tools/vimwiki
-	url = https://github.com/vim-scripts/vimwiki.git
 [submodule "janus/vim/tools/css-color"]
 	path = janus/vim/tools/css-color
 	url = https://github.com/ap/vim-css-color.git
@@ -179,9 +167,6 @@
 [submodule "janus/vim/tools/ctrlp"]
 	path = janus/vim/tools/ctrlp
 	url = https://github.com/kien/ctrlp.vim.git
-[submodule "janus/vim/tools/vroom"]
-	path = janus/vim/tools/vroom
-	url = https://github.com/skalnik/vim-vroom.git
 [submodule "janus/vim/tools/eunuch"]
 	path = janus/vim/tools/eunuch
 	url = https://github.com/tpope/vim-eunuch.git

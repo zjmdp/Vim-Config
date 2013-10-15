@@ -94,11 +94,7 @@ submodules:
     dispatch:
     easymotion:
     endwise:
-    fugitive:
     webapi:
-    gist:
-      dependencies:
-        - webapi
     gundo:
     indent-object:
     kwbd:
@@ -114,14 +110,9 @@ submodules:
     tagbar:
     tlib:
     unimpaired:
-    vimwiki:
     zoomwin:
-    vroom:
     multiple-cursors:
-    vim-nodejs-complete:
-    python-mode:
     cscope:
     vim-misc:
-    vim-session:
     autocomplpop:
     auto-pairs:

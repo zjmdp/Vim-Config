@@ -11,21 +11,18 @@ and `~/.vimrc.after` Vim RC files.
 
 ## Extended by zjmdp for modules below:
 - [cscope](http://cscope.sourceforge.net)
-- [python-mode](https://github.com/klen/python-mode)(Vim python-mode. PyLint, Rope, Pydoc, breakpoints from box)
 - [auto-pairs](https://github.com/jiangmiao/auto-pairs)(Insert or delete brackets, parens, quotes in pair)
 - [nodejs-complete](https://github.com/myhere/vim-nodejs-complete)(nodejs 'omnifunc' function of vim)
-- [session](https://github.com/xolox/vim-session.git)(Extended session management for vim)
 - [neocomplcache](https://github.com/Shougo/neocomplcache.vim)(It provides keyword completion system by maintaining a cache of keywords in the current buffer.)
 - [ultisnips](https://github.com/SirVer/ultisnips)(A powerfull replacement of snipmate)
 - [mark](https://github.com/vim-scripts/Mark--Karkat.git)(Highlight several words in different colors simultaneously.)
 - [surround](https://github.com/tpope/vim-surround)(Quoting/Parenthesizing made simple)
 - [tabular](https://github.com/godlygeek/tabular)(Vim script for text filtering and alignment, `<Leader>a=`: align with `=`, `<Leader>a:`: align with `:`)
 - [gitgutter](https://github.com/airblade/vim-gitgutter)(A Vim plugin which shows a git diff in the gutter)
-- [zencoding](https://github.com/mattn/zencoding-vim)(Provides support for expanding abbreviations similar to [zen-coding](https://code.google.com/p/zen-coding/))
 - Persist undo history
 - Set tabstop and shiftwidth to 4-spaces
-- Disable vroom plugin
 - map `jj` for exiting back to normal mode
+- remove githutter, fugitive, gist, vroom
 - map `;c` to `:nohlsearch<CR>` for cleaning highlighted searches 
 - map `<C-h>, <C-j>, <C-k>, <C-l>` for switch NERDTree windows.
 
