@@ -20,7 +20,7 @@ and `~/.vimrc.after` Vim RC files.
 - Persist undo history
 - Set tabstop and shiftwidth to 4-spaces
 - map `jj` for exiting back to normal mode
-- remove githutter, fugitive, gist, vroom, css-color, dispatch, zoomwin 
+- remove githutter, fugitive, gist, vroom, css-color, dispatch, zoomwin, kwbd 
 - map `;c` to `:nohlsearch<CR>` for cleaning highlighted searches 
 - map `<C-h>, <C-j>, <C-k>, <C-l>` for switch NERDTree windows.
 
