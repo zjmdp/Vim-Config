@@ -94,10 +94,8 @@ submodules:
     dispatch:
     easymotion:
     endwise:
-    webapi:
     gundo:
     indent-object:
-    kwbd:
     eunuch:
     matchit:
     narrowregion:
@@ -110,9 +108,7 @@ submodules:
     tagbar:
     tlib:
     unimpaired:
-    zoomwin:
     multiple-cursors:
     cscope:
     vim-misc:
-    autocomplpop:
     auto-pairs:

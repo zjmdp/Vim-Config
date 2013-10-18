@@ -12,7 +12,6 @@ and `~/.vimrc.after` Vim RC files.
 ## Extended by zjmdp for modules below:
 - [cscope](http://cscope.sourceforge.net)
 - [auto-pairs](https://github.com/jiangmiao/auto-pairs)(Insert or delete brackets, parens, quotes in pair)
-- [nodejs-complete](https://github.com/myhere/vim-nodejs-complete)(nodejs 'omnifunc' function of vim)
 - [neocomplcache](https://github.com/Shougo/neocomplcache.vim)(It provides keyword completion system by maintaining a cache of keywords in the current buffer.)
 - [ultisnips](https://github.com/SirVer/ultisnips)(A powerfull replacement of snipmate)
 - [mark](https://github.com/vim-scripts/Mark--Karkat.git)(Highlight several words in different colors simultaneously.)
@@ -21,6 +20,7 @@ and `~/.vimrc.after` Vim RC files.
 - [gitgutter](https://github.com/airblade/vim-gitgutter)(A Vim plugin which shows a git diff in the gutter)
 - Persist undo history
 - Set tabstop and shiftwidth to 4-spaces
+- Disable vroom plugin
 - map `jj` for exiting back to normal mode
 - remove fugitive, gist, vroom, dispatch, zoomwin, kwbd 
 - map `;c` to `:nohlsearch<CR>` for cleaning highlighted searches 
