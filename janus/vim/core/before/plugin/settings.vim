@@ -89,3 +89,4 @@ let g:neocomplcache_enable_at_startup = 1
 "navigate the completion menu from bottom to top
 let g:SuperTabDefaultCompletionType = "<c-n>"
 let g:SuperTabContextDefaultCompletionType = "<c-n>"
+let g:UltiSnipsExpandTrigger="<c-l>"
