@@ -164,9 +164,9 @@
 [submodule "janus/vim/tools/mark"]
 	path = janus/vim/tools/mark
 	url = https://github.com/vim-scripts/Mark--Karkat.git
-[submodule "YouCompleteMe"]
-	path = janus/vim/tools/YouCompleteMe.git
-	url = https://github.com/Valloric/YouCompleteMe.git
 [submodule "janus/vim/tools/visualstar"]
 	path = janus/vim/tools/visualstar
 	url = https://github.com/thinca/vim-visualstar.git
+[submodule "janus/vim/tools/YouCompleteMe"]
+	path = janus/vim/tools/YouCompleteMe
+	url = https://github.com/Valloric/YouCompleteMe.git
