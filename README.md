@@ -10,9 +10,8 @@ The distribution is completely customisable using a `~/.vimrc.before`
 and `~/.vimrc.after` Vim RC files.
 
 ## Extended by zjmdp for modules below:
-- [cscope](http://cscope.sourceforge.net)
 - [auto-pairs](https://github.com/jiangmiao/auto-pairs)(Insert or delete brackets, parens, quotes in pair)
-- [neocomplcache](https://github.com/Shougo/neocomplcache.vim)(It provides keyword completion system by maintaining a cache of keywords in the current buffer.)
+- [YouCompleteMe](https://github.com/Valloric/YouCompleteMe.git)(YouCompleteMe is a fast, as-you-type, fuzzy-search code completion engine for Vim)
 - [ultisnips](https://github.com/SirVer/ultisnips)(A powerfull replacement of snipmate)
 - [mark](https://github.com/vim-scripts/Mark--Karkat.git)(Highlight several words in different colors simultaneously.)
 - [surround](https://github.com/tpope/vim-surround)(Quoting/Parenthesizing made simple)

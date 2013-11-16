@@ -4,33 +4,15 @@
 	url = https://github.com/tpope/vim-pathogen.git
 
 # Colors
-[submodule "janus/vim/colors/sampler-pack"]
-	path = janus/vim/colors/sampler-pack
-	url = https://github.com/vim-scripts/Colour-Sampler-Pack.git
 [submodule "janus/vim/colors/solarized"]
 	path = janus/vim/colors/solarized
 	url = https://github.com/altercation/vim-colors-solarized.git
-[submodule "janus/vim/colors/irblack"]
-	path = janus/vim/colors/irblack
-	url = https://github.com/twerth/ir_black.git
-[submodule "janus/vim/colors/vividchalk"]
-	path = janus/vim/colors/vividchalk
-	url = https://github.com/tpope/vim-vividchalk.git
+[submodule "janus/vim/colors/desertEx"]
+	path = janus/vim/colors/desertEx
+	url = https://github.com/vim-scripts/desertEx.git
 [submodule "janus/vim/colors/molokai"]
 	path = janus/vim/colors/molokai
 	url = https://github.com/vim-scripts/molokai.git
-[submodule "janus/vim/colors/pyte"]
-	path = janus/vim/colors/pyte
-	url = https://github.com/vim-scripts/pyte.git
-[submodule "janus/vim/colors/github"]
-	path = janus/vim/colors/github
-	url = https://github.com/telamon/vim-color-github.git
-[submodule "janus/vim/colors/getafe"]
-	path = janus/vim/colors/getafe
-	url = https://github.com/larssmit/vim-getafe.git
-[submodule "janus/vim/colors/janus-colors"]
-	path = janus/vim/colors/janus-colors
-	url = https://github.com/TechnoGate/janus-colors.git
 
 # Langs
 [submodule "janus/vim/langs/haml"]
@@ -170,12 +152,6 @@
 [submodule "janus/vim/tools/multiple-cursors"]
 	path = janus/vim/tools/multiple-cursors
 	url = https://github.com/terryma/vim-multiple-cursors.git
-[submodule "janus/vim/tools/cscope"]
-	path = janus/vim/tools/cscope
-	url = https://github.com/zjmdp/cscope.git
-[submodule "janus/vim/tools/vim-misc"]
-	path = janus/vim/tools/vim-misc
-	url = https://github.com/xolox/vim-misc
 [submodule "janus/vim/tools/ultisnips"]
 	path = janus/vim/tools/ultisnips
 	url = https://github.com/SirVer/ultisnips.git
@@ -188,12 +164,9 @@
 [submodule "janus/vim/tools/gitgutter"]
 	path = janus/vim/tools/gitgutter
 	url = https://github.com/airblade/vim-gitgutter
-[submodule "janus/vim/tools/neocomplcache"]
-	path = janus/vim/tools/neocomplcache
-	url = https://github.com/Shougo/neocomplcache.vim.git
-[submodule "janus/vim/colors/desertEx"]
-	path = janus/vim/colors/desertEx
-	url = https://github.com/vim-scripts/desertEx.git
 [submodule "janus/vim/tools/mark"]
 	path = janus/vim/tools/mark
 	url = https://github.com/vim-scripts/Mark--Karkat.git
+[submodule "YouCompleteMe"]
+	path = janus/vim/tools/YouCompleteMe.git
+	url = https://github.com/Valloric/YouCompleteMe.git

@@ -9,9 +9,4 @@ This file lists part of shortcuts of this VIM distrubution
 - '<leader>u' : converts the word to uppercase.
 - '<leader>l' : converts the word to lowercase.
 - '<leader>U' : converts the first char of word to uppercase.
-- '<leader>'
-- '<leader>'
-- '<leader>'
-- '<leader>'
-- '<leader>'
-
+(not finished)

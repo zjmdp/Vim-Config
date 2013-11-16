@@ -76,15 +76,7 @@ set undofile
 set undodir^=~/.vim/_undodir//
 set undolevels=10000 "maximum number of changes that can be undones
 
-" python code
-let g:pymode_run_key = '<leader>e'
-
-" auto save and load sesson
-let g:session_autosave = "yes"
-let g:session_autoload = "yes"
 let g:AutoPairs = {'(':')', '[':']', '{':'}',"'":"'",'"':'"', '`':'`', '<':'>'}
-
-let g:neocomplcache_enable_at_startup = 1
 
 "navigate the completion menu from bottom to top
 let g:SuperTabDefaultCompletionType = "<c-n>"
