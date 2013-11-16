@@ -23,19 +23,9 @@ submodules:
   # Colors
   #
   colors:
-    base16-vim:
-    getafe:
-    github:
-    irblack:
     molokai:
-    pyte:
-    sampler-pack:
     solarized:
-    vim-tomorrow-theme:
-    vividchalk:
-    janus-colors:
-      dependencies:
-        - sampler-pack
+    desertEx:
 
 
   # Langs
