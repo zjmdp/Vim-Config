@@ -32,7 +32,7 @@
 	url = https://github.com/ajf/puppet-vim.git
 [submodule "janus/vim/langs/scala"]
 	path = janus/vim/langs/scala
-  url = https://github.com/rosstimson/scala-vim-support.git
+	url = https://github.com/rosstimson/scala-vim-support.git
 [submodule "janus/vim/langs/handlebars"]
 	path = janus/vim/langs/handlebars
 	url = https://github.com/nono/vim-handlebars.git
@@ -101,9 +101,6 @@
 [submodule "janus/vim/tools/matchit"]
 	path = janus/vim/tools/matchit
 	url = https://github.com/edsono/vim-matchit.git
-[submodule "janus/vim/tools/supertab"]
-	path = janus/vim/tools/supertab
-	url = https://github.com/ervandew/supertab.git
 [submodule "janus/vim/tools/ack"]
 	path = janus/vim/tools/ack
 	url = https://github.com/mileszs/ack.vim.git
@@ -170,3 +167,6 @@
 [submodule "YouCompleteMe"]
 	path = janus/vim/tools/YouCompleteMe.git
 	url = https://github.com/Valloric/YouCompleteMe.git
+[submodule "janus/vim/tools/visualstar"]
+	path = janus/vim/tools/visualstar
+	url = https://github.com/thinca/vim-visualstar.git
