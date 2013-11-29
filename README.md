@@ -33,6 +33,9 @@ $ cd janus
 $ ./bootstrap.sh
 ```
 
+## Compile YouCompleteMe
+Refer to [YouCompleteMe](https://github.com/Valloric/YouCompleteMe)
+
 ## Updating to the latest version
 
 To update to the latest version of the distribution, just run `rake`

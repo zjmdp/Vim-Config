@@ -2,6 +2,7 @@
 "" Basic Setup
 ""
 
+let mapleader=';'
 set nocompatible      " Use vim, no vi defaults
 set number            " Show line numbers
 set ruler             " Show line and column number
@@ -87,4 +88,7 @@ let g:AutoPairs = {'(':')', '[':']', '{':'}',"'":"'",'"':'"', '`':'`', '<':'>'}
 "navigate the completion menu from bottom to top
 let g:SuperTabDefaultCompletionType = "<c-n>"
 let g:SuperTabContextDefaultCompletionType = "<c-n>"
+
 let g:UltiSnipsExpandTrigger="<c-l>"
+let g:ycm_global_ycm_extra_conf = '~/.vim/janus/vim/tools/YouCompleteMe/cpp/ycm/.ycm_extra_conf.py'
+let g:ycm_confirm_extra_conf = 0

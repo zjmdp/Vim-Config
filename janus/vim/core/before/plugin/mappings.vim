@@ -165,12 +165,12 @@ cnoremap <expr> <C-P> getcmdline()[getcmdpos()-2] ==# ' ' ? expand('%:p:h') : "\
 command! KillWhitespace :normal :%s/ *$//g<cr><c-o><cr>
 
 "" Add by zjmdp below
-inoremap jj <ESC>
+inoremap jj <ESC>l
 nnoremap <C-h> <C-w>h
 nnoremap <C-j> <C-w>j
 nnoremap <C-k> <C-w>k
 nnoremap <C-l> <C-w>l
-nmap <silent> ;c :nohlsearch<CR>
+nmap <silent> ,c :nohlsearch<CR>
 
 nmap <Leader>a= :Tabularize /=<CR>
 vmap <Leader>a= :Tabularize /=<CR>
@@ -178,3 +178,4 @@ nmap <Leader>a: :Tabularize /:\zs<CR>
 vmap <Leader>a: :Tabularize /:\zs<CR>
 
 nmap <leader>c  :Mark<CR>
+nnoremap <leader>jd :YcmCompleter GoToDefinitionElseDeclaration<CR>
