@@ -92,3 +92,5 @@ let g:SuperTabContextDefaultCompletionType = "<c-n>"
 let g:UltiSnipsExpandTrigger="<c-l>"
 let g:ycm_global_ycm_extra_conf = '~/.vim/janus/vim/tools/YouCompleteMe/cpp/ycm/.ycm_extra_conf.py'
 let g:ycm_confirm_extra_conf = 0
+set completeopt-=preview
+let g:ycm_add_preview_to_completeopt = 0
