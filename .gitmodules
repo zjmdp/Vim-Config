@@ -170,3 +170,6 @@
 [submodule "janus/vim/tools/YouCompleteMe"]
 	path = janus/vim/tools/YouCompleteMe
 	url = https://github.com/Valloric/YouCompleteMe.git
+[submodule "janus/vim/tools/a"]
+	path = janus/vim/tools/a
+	url = https://github.com/vim-scripts/a.vim.git

@@ -10,13 +10,14 @@ The distribution is completely customisable using a `~/.vimrc.before`
 and `~/.vimrc.after` Vim RC files.
 
 ## Extended by zjmdp for modules below:
-- [auto-pairs](https://github.com/jiangmiao/auto-pairs)(Insert or delete brackets, parens, quotes in pair)
 - [YouCompleteMe](https://github.com/Valloric/YouCompleteMe.git)(YouCompleteMe is a fast, as-you-type, fuzzy-search code completion engine for Vim)
 - [ultisnips](https://github.com/SirVer/ultisnips)(A powerfull replacement of snipmate)
+- [auto-pairs](https://github.com/jiangmiao/auto-pairs)(Insert or delete brackets, parens, quotes in pair)
 - [mark](https://github.com/vim-scripts/Mark--Karkat.git)(Highlight several words in different colors simultaneously.)
 - [surround](https://github.com/tpope/vim-surround)(Quoting/Parenthesizing made simple)
 - [tabular](https://github.com/godlygeek/tabular)(Vim script for text filtering and alignment, `<Leader>a=`: align with `=`, `<Leader>a:`: align with `:`)
 - [gitgutter](https://github.com/airblade/vim-gitgutter)(A Vim plugin which shows a git diff in the gutter)
+- [a.vim](https://github.com/vim-scripts/a.vim.git)(A few of quick commands to swtich between source files and header files quickly.)
 - Persist undo history
 - Set tabstop and shiftwidth to 4-spaces
 - Disable vroom plugin
