@@ -170,7 +170,7 @@ nnoremap <C-h> <C-w>h
 nnoremap <C-j> <C-w>j
 nnoremap <C-k> <C-w>k
 nnoremap <C-l> <C-w>l
-nmap <silent> ,c :nohlsearch<CR>
+nmap <silent> <leader>h :nohlsearch<CR>
 
 nmap <Leader>a= :Tabularize /=<CR>
 vmap <Leader>a= :Tabularize /=<CR>
