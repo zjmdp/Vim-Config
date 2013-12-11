@@ -173,3 +173,6 @@
 [submodule "janus/vim/tools/a"]
 	path = janus/vim/tools/a
 	url = https://github.com/vim-scripts/a.vim.git
+[submodule "janus/vim/tools/vim-multiple-cursors"]
+	path = janus/vim/tools/vim-multiple-cursors
+	url = https://github.com/terryma/vim-multiple-cursors.git

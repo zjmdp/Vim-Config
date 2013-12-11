@@ -18,6 +18,7 @@ and `~/.vimrc.after` Vim RC files.
 - [tabular](https://github.com/godlygeek/tabular)(Vim script for text filtering and alignment, `<Leader>a=`: align with `=`, `<Leader>a:`: align with `:`)
 - [gitgutter](https://github.com/airblade/vim-gitgutter)(A Vim plugin which shows a git diff in the gutter)
 - [a.vim](https://github.com/vim-scripts/a.vim.git)(A few of quick commands to swtich between source files and header files quickly.)
+- [vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors)(Bring Sublime Text's awesome multiple selection feature into Vim)
 - Persist undo history
 - Set tabstop and shiftwidth to 4-spaces
 - Disable vroom plugin
