@@ -178,4 +178,4 @@ nmap <Leader>a: :Tabularize /:\zs<CR>
 vmap <Leader>a: :Tabularize /:\zs<CR>
 
 nmap <leader>c  :Mark<CR>
-nnoremap <c-j> :YcmCompleter GoToDefinitionElseDeclaration<CR>
+nnoremap <c-g> :YcmCompleter GoToDefinitionElseDeclaration<CR>
