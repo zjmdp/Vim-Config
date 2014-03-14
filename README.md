@@ -30,8 +30,8 @@ and `~/.vimrc.after` Vim RC files.
 ###How to install extended janus
 
 ```bash
-$ git clone https://github.com/zjmdp/janus.git
-$ cd janus
+$ git clone https://github.com/zjmdp/Vim-Config.git
+$ cd Vim-Config
 $ ./bootstrap.sh
 ```
 
