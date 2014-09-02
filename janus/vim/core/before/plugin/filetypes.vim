@@ -1,16 +1,4 @@
 ""
-"" Helpers
-""
-
-" Some file types should wrap their text
-function! s:setupWrapping()
-  set wrap
-  set linebreak
-  set textwidth=72
-  set nolist
-endfunction
-
-""
 "" File types
 ""
 
@@ -30,7 +18,9 @@ if has("autocmd")
 
   " Make sure all mardown files have the correct filetype set and setup wrapping
   au BufRead,BufNewFile *.{md,markdown,mdown,mkd,mkdn,txt} setf markdown
-  au FileType markdown call s:setupWrapping()
+  if !exists("g:disable_markdown_autostyle")
+    au FileType markdown setlocal wrap linebreak textwidth=72 nolist
+  endif
 
   " Treat JSON files like JavaScript
   au BufNewFile,BufRead *.json set ft=javascript

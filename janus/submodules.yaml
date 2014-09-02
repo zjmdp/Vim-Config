@@ -57,11 +57,11 @@ submodules:
         - ruby
         - rails
         - syntax
-    handlebars:
     haskell:
     javascript:
     less:
     markdown:
+    mustache_handlebars:
     minitest:
     nodejs:
     puppet:
@@ -74,6 +74,8 @@ submodules:
     textile:
     clojure:
     golang:
+    liquid:
+    rdoc:
 
 
   # Tools
@@ -99,5 +101,10 @@ submodules:
     tagbar:
     tlib:
     unimpaired:
+    vim-addon-mw-utils:
+    vim-trailing-whitespace:
+    vimwiki:
+    zoomwin:
+    vroom:
     multiple-cursors:
     visualstar:

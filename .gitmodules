@@ -27,15 +27,15 @@
 [submodule "janus/vim/langs/markdown"]
 	path = janus/vim/langs/markdown
 	url = https://github.com/tpope/vim-markdown.git
+[submodule "janus/vim/langs/mustache_handlebars"]
+	path = janus/vim/langs/mustache_handlebars
+	url = https://github.com/mustache/vim-mustache-handlebars.git
 [submodule "janus/vim/langs/puppet"]
 	path = janus/vim/langs/puppet
 	url = https://github.com/ajf/puppet-vim.git
 [submodule "janus/vim/langs/scala"]
 	path = janus/vim/langs/scala
 	url = https://github.com/rosstimson/scala-vim-support.git
-[submodule "janus/vim/langs/handlebars"]
-	path = janus/vim/langs/handlebars
-	url = https://github.com/nono/vim-handlebars.git
 [submodule "janus/vim/langs/coffeescript"]
 	path = janus/vim/langs/coffeescript
 	url = https://github.com/kchmck/vim-coffee-script.git
@@ -90,6 +90,12 @@
 [submodule "janus/vim/langs/golang"]
 	path = janus/vim/langs/golang
 	url = https://github.com/jnwhiteh/vim-golang.git
+[submodule "janus/vim/langs/liquid"]
+	path = janus/vim/langs/liquid
+	url = https://github.com/tpope/vim-liquid.git
+[submodule "janus/vim/langs/rdoc"]
+	path = janus/vim/langs/rdoc
+	url = https://github.com/depuracao/vim-rdoc.git
 
 # Tools
 [submodule "janus/vim/tools/unimpaired"]
@@ -176,3 +182,6 @@
 [submodule "janus/vim/tools/vim-multiple-cursors"]
 	path = janus/vim/tools/vim-multiple-cursors
 	url = https://github.com/terryma/vim-multiple-cursors.git
+[submodule "janus/vim/tools/vim-trailing-whitespace"]
+	path = janus/vim/tools/vim-trailing-whitespace
+	url = https://github.com/bronson/vim-trailing-whitespace.git

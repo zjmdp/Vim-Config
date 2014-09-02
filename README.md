@@ -73,7 +73,7 @@ $ brew install macvim
 ```
 
 If you don't use Homebrew, you can still download MacVim
-[here](https://github.com/b4winckler/macvim/downloads).
+[here](https://github.com/b4winckler/macvim/releases).
 
 Take a look at the [Pre-requisites wiki
 page](https://github.com/carlhuda/janus/wiki/Pre-requisites) for more
@@ -167,11 +167,13 @@ Here're some tips in case you've never used VIM before:
   tutorial inside VIM.
 * Read the slides at [VIM: Walking Without Crutches](http://walking-without-crutches.heroku.com/#1).
 * Watch the screencasts at [vimcasts.org](http://vimcasts.org/)
-* Watch Derek Wyatt's energetic tutorial videos at [his site](http://www.derekwyatt.org/vim/vim-tutorial-videos/)
+* Watch Derek Wyatt's energetic tutorial videos at [his site](http://derekwyatt.org/vim/tutorials/)
 * Read wycats' perspective on learning Vim at
   [Everyone who tried to convince me to use vim was wrong](http://yehudakatz.com/2010/07/29/everyone-who-tried-to-convince-me-to-use-vim-was-wrong/)
 * Read this and other answers to a question about vim at StackOverflow:
   [Your problem with Vim is that you don't grok vi](http://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118)
+* Read the [Getting Started with Vim](http://www.sitepoint.com/getting-started-vim/) tutorial on SitePoint
+* Read the [Effective Rails Development with Vim](http://www.sitepoint.com/effective-rails-development-vim/) tutorial on SitePoint
 
 ## Modes
 
@@ -420,11 +422,31 @@ Then benefits of this plugin are to centralize your workflow in one
 window, one software to do it all, which is a huge speedup over using
 `tmux` or multiple terminal tabs.
 
+## [vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors)
+Out of the box, all you need to know is a single key `Ctrl-n`. Pressing the key
+in Normal mode highlights the current word under the cursor in Visual mode and
+places a virtual cursor at the end of it. Pressing it again finds the next
+ocurrence and places another virtual cursor at the end of the visual selection.
+If you select multiple lines in Visual mode, pressing the key puts a virtual
+cursor at every line and leaves you in Normal mode.
+
+More at [QuickStart](https://github.com/terryma/vim-multiple-cursors/blob/master/README.md#quick-start)
+
+## [vim-trailing-whitespace](https://github.com/bronson/vim-trailing-whitespace)
+This plugin causes all trailing whitespace to be highlighted in red.
+
+To fix the whitespace errors, just call :FixWhitespace.  By default it
+operates on the entire file.  Pass a range (or use V to select some lines)
+to restrict the portion of the file that gets fixed.
+
 ## Additional Syntaxes
 
 Janus ships with a few additional syntaxes:
 
 * Markdown (bound to \*.markdown, \*.md, and \*.mk)
+* Markdown auto styling (disabled by setting
+  `g:disable_markdown_autostyle` in `~/.vimrc.before` => `let
+  g:disable_markdown_autostyle = 1`)
 * Mustache (bound to \*.mustache)
 * Haml (bound to \*.haml)
 * Sass (bound to \*.sass)
